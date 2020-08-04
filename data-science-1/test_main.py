@@ -1,3 +1,4 @@
+from IPython import get_ipython
 from main import *
 
 
